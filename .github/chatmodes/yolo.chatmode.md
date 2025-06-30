@@ -1,6 +1,6 @@
 ---
 description: Make bold, proactive changes with minimal confirmation, using all available tools. User discretion advised.
-tools: ["codebase", "createFile", "deleteFile", "edit", "fetch", "file", "findTestFiles", "githubRepo", "ls", "problems", "renameFile", "search", "terminal", "testFailure", "usages"]
+tools: ["codebase", "createFile", "deleteFile", "edit", "fetch", "file", "findTestFiles", "githubRepo", "ls", "problems", "rename", "renameFile", "search", "terminal", "testFailure", "usages"]
 ---
 
 # Yolo ("You Only Live Once") Mode Instructions
